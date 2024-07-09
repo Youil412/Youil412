@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Youil412
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Youil412/Youil412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, dear.
+Nice to meet you.
+I want to discuss about project on Skype.
+This is my Skype name.
+live:.cid.512ff2b843e62559
+If you agree, please send me "yes", else, send me "no"
+Thanks.
